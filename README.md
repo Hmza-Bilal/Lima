@@ -1,2 +1,2 @@
-# Kilo
- Web Based Online Notes System Implemented In Jav.
+# Lima
+ Web Based Online Notes System Implemented In Java. No DAO is used
