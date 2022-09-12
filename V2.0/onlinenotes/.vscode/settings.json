@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "f:\\PUCIT\\Semester 6\\Web Engineering\\Web Engineering\\Software\\apache-tomcat-8.5.40\\lib\\jasper.jar",
+        "f:\\PUCIT\\Semester 6\\Web Engineering\\Web Engineering\\Software\\apache-tomcat-8.5.40\\lib\\jsp-api.jar",
+        "f:\\PUCIT\\Semester 6\\Web Engineering\\Web Engineering\\Software\\apache-tomcat-8.5.40\\lib\\servlet-api.jar"
+    ]
+}
